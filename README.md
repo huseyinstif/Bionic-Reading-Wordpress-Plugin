@@ -1,3 +1,7 @@
+# What is Bionic Reading?
+Bionic Reading is a new method that, through the simplest tweak, can dramatically boost your reading speed. At the same time, it may also assist in comprehension and recollection due to how our brain works.
+More Information: https://bionic-reading.com
+
 # Bionic Reading Wordpress Plugin
 
 # EN
@@ -11,6 +15,10 @@ This plugin applies the Bionic Reading format to all blog posts on your site.
 ![Screenshoot](EN1.png "Screenshoot")<br>
 
 The plugin is continuously being developed, you can use the following links for communication and support.
+
+# Biyonik Okuma nedir?
+Biyonik Okuma, dikkati kelimenin ilk birkaç harfine veya hecesine çekerek okumayı kolaylaştıran ve hızlandıran yeni bir yöntemdir. Okuyucu yalnızca kelimelerin vurgulanan harflerine veya hecelerine odaklanırken, insan beyni kelimenin geri kalanını tamamlar. Böylece okuma hızı artarken, okunan metin daha kolay anlaşılır. Sığ okuma biçimlerinin hakim olduğu bir dünyada Biyonik Okuma, yazılı içeriğin daha derinlemesine okunmasını ve anlaşılmasını teşvik etmeyi amaçlar.
+Daha fazla bilgi için: https://biyonikokuma.com/
 
 # TR
 Bu WordPress eklentisi,sitedeki tüm blog yazılarına Biyonik Okuma formatını uygular.
